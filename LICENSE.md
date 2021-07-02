@@ -1,6 +1,6 @@
-# The MIT License (MIT)
+# Kevin Lomata
 
-Copyright © 2016-2021 Michael Teeuw
+Copyright © Kevin Lomata
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
